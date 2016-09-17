@@ -1,0 +1,125 @@
+ncsim 11.10-s072
+Linux 2.6.32-431.11.2.el6.x86_64 #1 SMP Tue Mar 25 19:59:55 UTC 2014 x86_64
+CPU cores: 16
+Limit information:
+======================================
+cputime			unlimited
+filesize		unlimited
+datasize		unlimited
+stacksize		10240 kbytes
+coredumpsize	0 kbytes
+memoryuse		unlimited
+vmemoryuse		unlimited
+descriptors		1024
+memorylocked	64 kbytes
+maxproc			1024
+======================================
+(Special)Runtime environment variables:
+
+Runtime environment variables:
+HOSTNAME=ed520.ee.nctu.edu.tw
+TERM=screen-256color
+SHELL=/bin/bash
+HISTSIZE=10000
+SSH_CLIENT=106.1.234.252 34710 22
+QTDIR=/usr/lib64/qt-3.3
+QTINC=/usr/lib64/qt-3.3/include
+SSH_TTY=/dev/pts/3
+USER=bigfeng8204
+LD_LIBRARY_PATH=/usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX/::/usr/cad/cadence/EDI/cur//tools/tlfUtil/lib:/usr/cad/cadence/INCISIV/cur/tools/lib:/usr/cad/cadence/INCISIV/cur/tools/vtools/vfault/lib:/fpga/Xilinx/14.2/ISE_DS/ISE/lib/lin64:/fpga/Xilinx/14.2/ISE_DS/ISE/smartmodel/lin64/installed_lin64/lib:/fpga/Xilinx/14.2/ISE_DS/EDK/lib/lin64:/usr/local/cuda-7.0/lib64:/opt/AMDAPP/lib/x86_64:/opt/AMDAPP/lib/x86:/opt/AMDAPP/lib/x86_64:/opt/AMDAPP/lib/x86
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lz=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.bz=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.rar=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+LIBGL_DRIVERS_PATH=/usr/lib/dri:/usr/lib64/dri:/usr/lib/dri:/usr/lib64/dri
+MAIL=/var/spool/mail/bigfeng8204
+PATH=/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/fuse/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/fuse/lib/sparc/jre1.2.2/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/fuse/lib/sparc/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/fuse/lib/sparc/jre1.1.5/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/fuse/lib/linux/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rf_sp_adv/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rf_sp_adv/lib/sparc/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rf_sp_adv/lib/linux/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rf_2p_adv/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rf_2p_adv/lib/sparc/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rf_2p_adv/lib/linux/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/sram_sp_adv/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/sram_sp_adv/lib/sparc/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/sram_sp_adv/lib/linux/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rodsd/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rodsd/lib/sparc/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/rodsd/lib/linux/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/sram_dp_adv/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/sram_dp_adv/lib/sparc/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/aci/sram_dp_adv/lib/linux/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/TS19CE000-FE-00000-r3p0-00eac0/arm/tsmc/cln90g/rf_2p_uhd/r3p0-00eac0/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/TS19CE000-FE-00000-r3p0-00eac0/arm/tsmc/cln90g/rf_2p_uhd/r3p0-00eac0/lib/sparc/jre/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/TS19CE000-FE-00000-r3p0-00eac0/arm/tsmc/cln90g/rf_2p_uhd/r3p0-00eac0/lib/sparc/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/TS19CE000-FE-00000-r3p0-00eac0/arm/tsmc/cln90g/rf_2p_uhd/r3p0-00eac0/lib/sparc/jre_tiling/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/TS19CE000-FE-00000-r3p0-00eac0/arm/tsmc/cln90g/rf_2p_uhd/r3p0-00eac0/lib/linux/jre/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/TS19CE000-FE-00000-r3p0-00eac0/arm/tsmc/cln90g/rf_2p_uhd/r3p0-00eac0/lib/linux/j2re1.4.2_04/bin:/usr/cad/cadence/CBDK_TSMC90GUTM_Arm_f1.0/orig_lib/TS19CE000-FE-00000-r3p0-00eac0/arm/tsmc/cln90g/rf_2p_uhd/r3p0-00eac0/lib/linux/jre_tiling/bin:/opt/gcc-4.2.2/bin/:/usr/bin/X11:/usr/cad/synopsys/synthesis/cur/amd64/syn/bin:/usr/cad/synopsys/verdi/cur/bin:/usr/cad/synopsys/verdi/cur/nLint/bin:/usr/cad/synopsys/vcs/cur/bin:/usr/cad/synopsys/vcs/cur/linux/bin:/usr/cad/synopsys/vcs/cur/linux/util:/usr/cad/synopsys/vcs/cur/linux/flexlm:/usr/cad/cadence/EDI/cur/tools/celtic/bin:/usr/cad/cadence/EDI/cur/tools/plato/bin:/usr/cad/cadence/EDI/cur/tools/dfII/bin:/usr/cad/cadence/EDI/cur/tools/fe/bin:/usr/cad/cadence/EDI/cur/tools/cdsdoc/bin:/usr/cad/cadence/EDI/cur/tools/bin:/usr/cad/cadence/EDI/cur//tools/tlfUtil/bin:/usr/cad/cadence/INCISIV/cur/tools/bin:/usr/cad/cadence/INCISIV/cur/tools/vtools/vfault/bin:/usr/cad/cadence/INCISIV/cur/tools/dfII/bin:/fpga/Xilinx/14.2/ISE_DS/ISE/bin/lin64:/fpga/Xilinx/14.2/ISE_DS/ISE/sysgen/util:/fpga/Xilinx/14.2/ISE_DS/EDK/bin/lin64:/fpga/Xilinx/14.2/ISE_DS/PlanAhead/bin:/opt/vim74/bin:/usr/local/cuda-7.0/bin:/opt/vim74/bin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/raid5/bigfeng8204/bin
+AMDAPPSDKROOT=/opt/AMDAPP
+PWD=/home/raid5/bigfeng8204/Memory_BRAM_Multiport_Research/Dual_Ports_Memory/1R1W_2K_Memory_Works
+LANG=zh_TW.UTF-8
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+HISTCONTROL=ignoredups
+SHLVL=2
+HOME=/home/raid5/bigfeng8204
+LOGNAME=bigfeng8204
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+SSH_CONNECTION=106.1.234.252 34710 140.113.225.115 22
+LC_CTYPE=zh_TW.UTF-8
+MODULESHOME=/usr/share/Modules
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+module=() {  eval `/usr/bin/modulecmd bash $*`
+}
+OLDPWD=/home/raid5/bigfeng8204/Memory_BRAM_Multiport_Research/Dual_Ports_Memory
+ZSH=/home/raid5/bigfeng8204/.oh-my-zsh
+PAGER=less
+LESS=-R
+LSCOLORS=Gxfxcxdxbxegedabagacad
+_=/home/raid5/bigfeng8204/Memory_BRAM_Multiport_Research/Dual_Ports_Memory/1R1W_2K_Memory_Works/./exec.sh
+HOSTTYPE=x86_64-linux
+VENDOR=unknown
+OSTYPE=linux
+MACHTYPE=x86_64
+GROUP=ED520
+HOST=ed520.ee.nctu.edu.tw
+REMOTEHOST=106.1.234.252
+XILINXD_LICENSE_FILE=2100@140.113.202.151
+LM_LICENSE_FILE=26585@lsnctu:5280@lsnctu:5280@lscic:5280@lsncku:5280@lsnchu:5280@lsnctu:2100@140.113.202.151
+XILINX=/fpga/Xilinx/14.2/ISE_DS/ISE
+XILINX_EDK=/fpga/Xilinx/14.2/ISE_DS/EDK
+XILINX_PLANAHEAD=/fpga/Xilinx/14.2/ISE_DS/PlanAhead
+XILINX_DSP=/fpga/Xilinx/14.2/ISE_DS/ISE
+LMC_HOME=/fpga/Xilinx/14.2/ISE_DS/ISE/smartmodel/lin64/installed_lin64
+ENCOUNTER=/usr/cad/cadence/EDI/cur/tools/fe
+OAHOME=/usr/cad/cadence/EDI/cur/oa
+OA_HOME=/usr/cad/cadence/EDI/cur/oa
+VCS_HOME=/usr/cad/synopsys/vcs/cur
+VCS_CC=gcc
+SHLIB_PATH=/usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX
+SYNTHESIS=/usr/cad/synopsys/synthesis/cur
+SYNOPSYS=/usr/cad/synopsys/synthesis/cur
+SYN_MAN_DIR=/usr/cad/synopsys/synthesis/cur/doc/syn/man
+MANPATH=/usr/cad/synopsys/synthesis/cur/doc/syn/man
+/home/raid5/bigfeng8204/Memory_BRAM_Multiport_Research/Dual_Ports_Memory/1R1W_2K_Memory_Works/INCA_libs/irun.lnx86.11.10.nc/svpp.ts
+CDS_ARCH=lnx86
+NCRUNMODE=ncverilog:./INCA_libs/irun.lnx86.11.10.nc
+IRUNBATCH=FALSE
+TCL_LIBRARY=/usr/cad/cadence/INCISIV/cur/tools/inca/files/tcl/library
+Runtime command line arguments:
+argv[0]=ncverilog
+argv[1]=-y
+argv[2]=/fpga/Xilinx/14.2/ISE_DS/ISE/verilog/src/unisims
+argv[3]=-y
+argv[4]=/fpga/Xilinx/14.2/ISE_DS/ISE/verilog/src/XilinxCoreLib
+argv[5]=+incdir+/fpga/Xilinx/14.2/ISE_DS/ISE/verilog/src
+argv[6]=+libext+.v
+argv[7]=/fpga/Xilinx/14.2/ISE_DS/ISE/verilog/src/glbl.v
+argv[8]=./blk_mem_gen_v7_2.v
+argv[9]=./TESTBENCH.v
+argv[10]=+define+RTL
+argv[11]=+access+rw
+argv[12]=+notimingchecks
+100 profile - 100
+          CPU/Mem usage: 0.050 sys,  0.040 user,  45.36M sys,  0.00M vm
+101 VC callback profile - scalar:0 vector:0
+102 Sat Sep 17 03:04:07 2016
+103 pliAppInit
+104 *Verdi3* : Enable Parallel Dumping.
+105 pliAppMiscSet: New Sim Round
+106 LIBSSCORE=found /usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX/libsscore_ius111.so through $LD_LIBRARY_PATH setting.
+107 Catch signal 11. Stack trace follows:
+#0  0x00c34430 in __kernel_vsyscall ()
+#1  0x0037e8c3 in __read_nocancel () from /lib/libc.so.6
+#2  0x0031872b in _IO_new_file_underflow () from /lib/libc.so.6
+#3  0x0031a44b in _IO_default_uflow_internal () from /lib/libc.so.6
+#4  0x0031ba5a in __uflow () from /lib/libc.so.6
+#5  0x0030e36c in _IO_getline_info_internal () from /lib/libc.so.6
+#6  0x0030e2b1 in _IO_getline_internal () from /lib/libc.so.6
+#7  0x0030d1ea in fgets () from /lib/libc.so.6
+#8  0x09fd72b9 in ndpGetCallStack () from /usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX/libsscore_ius111.so
+#9  0x0a000763 in pliAppDbg_SigHandler () from /usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX/libsscore_ius111.so
+#10 0x09fd6df1 in catchSignalCB () from /usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX/libsscore_ius111.so
+#11 <signal handler called>
+#12 0x0aa4be55 in ?? ()
+#13 0x0aab7fbc in ?? ()
+108 Sim process exit
